@@ -5,12 +5,13 @@
   <img src="https://img.shields.io/badge/TailwindCSS-UI%20First-06b6d4?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/JavaScript-Core-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?logo=github" />
-  <img src="https://img.shields.io/badge/Status-Building%20Startups-black" />
+  <img src="https://img.shields.io/badge/Status-Building%20Startups-green" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cracked-c0de&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cracked-c0de&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
