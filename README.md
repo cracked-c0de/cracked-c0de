@@ -9,12 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cracked-c0de&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=cracked-c0de&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cracked-c0de&theme=tokyonight" />
-</p>
 
 ---
 
