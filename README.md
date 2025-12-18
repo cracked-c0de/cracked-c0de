@@ -22,7 +22,7 @@ Frontend Engineer focused on **React** and **Tailwind CSS**.
 I learned coding **without a laptop**, built real projects early, and now focus on **shipping products**, not just writing code.
 
 - 💻 Middle Frontend Developer (React)
-- 🎓 IT Park University (1st year)
+- 🎓 IT Park University (2nd year)
 - 🧩 Co-Founder of **CodeStorm**
 - 🌍 Multilingual apps: **UZ / RU / EN**
 - 🔥 Advocate of **free & open IT education**
