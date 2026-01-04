@@ -8,11 +8,6 @@
   <a href="https://wakatime.com/@a7e07e15-668f-4df0-a8bb-c987265e5aa0"><img src="https://wakatime.com/badge/user/a7e07e15-668f-4df0-a8bb-c987265e5aa0.svg" alt="Total time coded since Nov 25 2024" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cracked-c0de&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
 
 ---
 
