@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-UI%20First-06b6d4?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/JavaScript-Core-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?logo=github" />
-  <img src="https://img.shields.io/badge/Status-Building%20Startups-green" />
+  [<img src="https://img.shields.io/badge/Status-Building%20Startups-green" />](https://wakatime.com/badge/user/a7e07e15-668f-4df0-a8bb-c987265e5aa0.svg)
 </p>
 
 <p align="center">
